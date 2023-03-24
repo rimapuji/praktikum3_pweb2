@@ -50,8 +50,7 @@
 ![Screenshot (293)](https://user-images.githubusercontent.com/118242692/227526730-dab91b60-79d3-4d39-89b2-8ca6aebd713d.png)
 
 <hr>
-<h2>MEMBUAT FILE KONEKSI DATABASE</h2>
-<h2>koneksi.php</h2>
+<h2>MEMBUAT FILE KONEKSI DATABASE [koneksi.php]</h2>
 
 <h3>Code :</h3>
 
@@ -84,8 +83,7 @@
 ![Screenshot (294)](https://user-images.githubusercontent.com/118242692/227530348-f8721d29-ba91-4cf5-a46f-72bd14a29ad7.png)
 
 <hr>
-<h2>MEMBUAT FILE INDEX UNTUK MENAMPILKAN DATA (READ)</h2>
-<h2>index.php</h2>
+<h2>MEMBUAT FILE INDEX UNTUK MENAMPILKAN DATA (READ) [index.php]</h2>
 
 <h3>Code :</h3>
 
@@ -179,8 +177,7 @@
 ![Screenshot (285)](https://user-images.githubusercontent.com/118242692/227532269-b3ddb787-b1e5-4db1-b5f1-65bb6f2bc156.png)
 
 <hr>
-<h2>MENAMBAH DATA (CREATE)</h2>
-<h2>tambah.php</h2>
+<h2>MENAMBAH DATA (CREATE) [tambah.php]</h2>
 
 <h3>Code :</h3>
 
@@ -300,8 +297,7 @@ Jika di klik tombol "simpan" maka data akan bertambah seperti pada gambar di baw
 ![Screenshot (287)](https://user-images.githubusercontent.com/118242692/227534104-7a4e9807-4842-46da-bb1a-700ea80f4236.png)
 
 <hr>
-<h2>MENGUBAH DATA (UPDATE)</h2>
-<h2>ubah.php</h2>
+<h2>MENGUBAH DATA (UPDATE) [ubah.php]</h2>
 
 <h3>Code :</h3>
 
@@ -438,8 +434,7 @@ Jika di klik tombol "simpan" maka data akan berubah seperti pada gambar di bawah
 ![Screenshot (289)](https://user-images.githubusercontent.com/118242692/227534507-4dda2126-c200-4131-b1e1-7c427aebd220.png)
 
 <hr>
-<h2>MENGHAPUS DATA (DELETE)</h2>
-<h2>hapus.php</h2>
+<h2>MENGHAPUS DATA (DELETE) [hapus.php]</h2>
 
 <h3>Code :</h3>
 
