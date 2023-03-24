@@ -51,6 +51,7 @@
 
 <hr>
 <h2>MEMBUAT FILE KONEKSI DATABASE</h2>
+<h2>koneksi.php</h2>
 
 <h3>Code :</h3>
 
@@ -84,6 +85,7 @@
 
 <hr>
 <h2>MEMBUAT FILE INDEX UNTUK MENAMPILKAN DATA (READ)</h2>
+<h2>index.php</h2>
 
 <h3>Code :</h3>
 
@@ -178,6 +180,7 @@
 
 <hr>
 <h2>MENAMBAH DATA (CREATE)</h2>
+<h2>tambah.php</h2>
 
 <h3>Code :</h3>
 
@@ -298,6 +301,7 @@ Jika di klik tombol "simpan" maka data akan bertambah seperti pada gambar di baw
 
 <hr>
 <h2>MENGUBAH DATA (UPDATE)</h2>
+<h2>ubah.php</h2>
 
 <h3>Code :</h3>
 
@@ -435,6 +439,7 @@ Jika di klik tombol "simpan" maka data akan berubah seperti pada gambar di bawah
 
 <hr>
 <h2>MENGHAPUS DATA (DELETE)</h2>
+<h2>hapus.php</h2>
 
 <h3>Code :</h3>
 
